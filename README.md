@@ -299,7 +299,7 @@ IKEA. (s. f.). *IKEA Kreativ: diseña tu estancia*. Recuperado el 15 de mayo de 
 
 Manovich, L. (2001). *The language of new media*. MIT Press.
 
-Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
 
 The VOID. (s. f.). *The VOID*. Recuperado el 15 de mayo de 2026, de https://www.thevoid.com/
 
