@@ -1,0 +1,2 @@
+# PEC3_Manovich_Reloaded_lulmic
+EC3_CulturaDigital
